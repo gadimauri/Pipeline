@@ -1,14 +1,13 @@
-Análisis de Corpus
+                                                        Análisis de Corpus
 
 Procesamiento del texto:
 
 En este trabajo se utilizó un conjunto de oraciones (corpus) sobre lenguajes de programación.
 Primero se realizó una limpieza del texto aplicando:
 
-Tokenización (separar palabras)
-Eliminación de stopwords (palabras sin mucho significado)
-Lematización (llevar palabras a su forma base)
-
+● Tokenización (separar palabras)
+● Eliminación de stopwords (palabras sin mucho significado)
+● Lematización (llevar palabras a su forma base)
 Esto permitió obtener un corpus más limpio y enfocado en las palabras importantes.
 
 Palabras más usadas:
@@ -16,9 +15,9 @@ Palabras más usadas:
 Se identificaron las 6 palabras más frecuentes en todo el corpus.
 Estas palabras representan los temas principales del contenido, que en este caso están relacionados con:
 
-Lenguajes de programación
-Tipos de lenguajes (interpretados / compilados)
-Usos (web, data science, etc.)
+● Lenguajes de programación
+● Tipos de lenguajes (interpretados / compilados)
+● Usos (web, data science, etc.)
 
 Palabra menos utilizada:
 
@@ -37,13 +36,14 @@ Este gráfico ayuda a visualizar de forma clara la diferencia de uso entre los t
 
 Conclusión:
 
-A partir de este análisis, se puede ver que el corpus está enfocado principalmente en la comparación entre distintos lenguajes de programación, destacando sus características, diferencias y aplicaciones.
-El uso de técnicas como limpieza de texto, conteo de frecuencias y TF-IDF permite transformar texto en datos analizables, facilitando la comprensión del contenido.
+distintos lenguajes de programación, destacando sus características, diferencias y aplicaciones.
+El uso de técnicas como limpieza de texto, conteo de frecuencias y TF-IDF permite transformar texto en datos analizables, facilitando la comprensión del contenido A partir de este análisis, se puede ver que el corpus está enfocado principalmente en la comparación entre.
 
 
 Tecnologías utilizadas:
 
-Python
-NLTK
-Scikit-learn
-Matplotlib
+● Python
+● NLTK
+● Scikit-learn
+● Matplotlib
+
