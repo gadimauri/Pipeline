@@ -34,16 +34,15 @@ Gráfico de distribución de frecuencia:
 Se generó un gráfico de barras utilizando únicamente las 6 palabras más frecuentes.
 Este gráfico ayuda a visualizar de forma clara la diferencia de uso entre los términos más importantes.
 
-Conclusión:
-
-distintos lenguajes de programación, destacando sus características, diferencias y aplicaciones.
-El uso de técnicas como limpieza de texto, conteo de frecuencias y TF-IDF permite transformar texto en datos analizables, facilitando la comprensión del contenido A partir de este análisis, se puede ver que el corpus está enfocado principalmente en la comparación entre.
-
-
 Tecnologías utilizadas:
 
 ● Python
 ● NLTK
 ● Scikit-learn
 ● Matplotlib
+
+Conclusión:
+
+distintos lenguajes de programación, destacando sus características, diferencias y aplicaciones.
+El uso de técnicas como limpieza de texto, conteo de frecuencias y TF-IDF permite transformar texto en datos analizables, facilitando la comprensión del contenido A partir de este análisis, se puede ver que el corpus está enfocado principalmente en la comparación entre.
 
