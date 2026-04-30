@@ -1,0 +1,49 @@
+Análisis de Corpus
+
+Procesamiento del texto:
+
+En este trabajo se utilizó un conjunto de oraciones (corpus) sobre lenguajes de programación.
+Primero se realizó una limpieza del texto aplicando:
+
+Tokenización (separar palabras)
+Eliminación de stopwords (palabras sin mucho significado)
+Lematización (llevar palabras a su forma base)
+
+Esto permitió obtener un corpus más limpio y enfocado en las palabras importantes.
+
+Palabras más usadas:
+
+Se identificaron las 6 palabras más frecuentes en todo el corpus.
+Estas palabras representan los temas principales del contenido, que en este caso están relacionados con:
+
+Lenguajes de programación
+Tipos de lenguajes (interpretados / compilados)
+Usos (web, data science, etc.)
+
+Palabra menos utilizada:
+
+También se detectó la palabra con menor frecuencia dentro del corpus.
+Esta palabra aparece muy pocas veces, por lo que no tiene un impacto relevante en el análisis general.
+
+Palabras más repetidas por oración:
+
+Se analizó cada oración individualmente para encontrar la palabra más repetida en cada una.
+Esto permite ver qué concepto se destaca dentro de cada frase.
+
+Gráfico de distribución de frecuencia:
+
+Se generó un gráfico de barras utilizando únicamente las 6 palabras más frecuentes.
+Este gráfico ayuda a visualizar de forma clara la diferencia de uso entre los términos más importantes.
+
+Conclusión:
+
+A partir de este análisis, se puede ver que el corpus está enfocado principalmente en la comparación entre distintos lenguajes de programación, destacando sus características, diferencias y aplicaciones.
+El uso de técnicas como limpieza de texto, conteo de frecuencias y TF-IDF permite transformar texto en datos analizables, facilitando la comprensión del contenido.
+
+
+Tecnologías utilizadas:
+
+Python
+NLTK
+Scikit-learn
+Matplotlib
